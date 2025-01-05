@@ -58,10 +58,7 @@ python run_nodes.py
 - **topology.json** – Sets up network connections between nodes.
 - **stock.json** – Represents available inventory in the warehouse.
 
-## 📊 Output (buyers = 4, sellers = 2, traders = 2)
-![nodes](image-2.png)
-[..more..](./design-doc.pdf)
-![Warehouse](image-1.png)
+
 
 📚 Please check [here](./design-doc.pdf) for more information.
 
