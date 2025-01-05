@@ -33,7 +33,7 @@ p2p-marketplace-main/
 ├── bazaar_pb2.py            # gRPC generated code (message classes)
 ├── bazaar_pb2_grpc.py       # gRPC generated code (services)
 ├── config_buyers_sellers.json # Configuration for buyers and sellers
-├── peer_cache.py            # Peer cache management
+├── peer_cache.py            # Peer(buyer/seller/trader) management and marketplace simulation
 ├── run_nodes.py             # Main script to initiate marketplace nodes
 ├── stock.json               # Stock data
 ├── topology.json            # Topology configuration
