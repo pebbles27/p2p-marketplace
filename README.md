@@ -1,6 +1,5 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Multiprocessing-006400?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Distributed-7B68EE?style=for-the-badge&logo=network&logoColor=white"/>
 
-#
 # Peer-to-Peer Marketplace
 
 ![alt text](image.png)
